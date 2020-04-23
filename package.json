@@ -1,0 +1,23 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A simple to do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelmarvi/todo-app.git"
+  },
+  "author": "Jorge Marzola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelmarvi/todo-app/issues"
+  },
+  "homepage": "https://github.com/joelmarvi/todo-app#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}

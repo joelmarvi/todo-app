@@ -165,9 +165,5 @@ export default function render() {
 
             
             content.appendChild(allTasks);
-            content.appendChild(todoList);
-  
-
-            
-            
+            content.appendChild(todoList);           
 }
